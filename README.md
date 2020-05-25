@@ -1,2 +1,2 @@
 # Banking_Portal
-Building a banking portal using Node.
+Learning Technigues how to Build a banking portal using Node.
